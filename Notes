@@ -1,0 +1,5 @@
+# markdown language
+
+    **Example** = Bold
+    __Example__ = Bold
+    *Example = Italic

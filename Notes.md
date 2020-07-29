@@ -1,9 +1,9 @@
 # markdown language
 
-**Example** = Bold
+**Example** = Bold\
 __Example__ = Bold
 
-*Example* = Italic
+*Example* = Italic\
 _Example_ = Italic
 
 ~~Example~~ = Crossed
@@ -19,38 +19,39 @@ __*Example*__ = Bold and Italic
 
 1. Example
 2. Example
-    1. Example
+    1. Example\
 = Ordered Lists
 
 * Example
 * Example
-    * Example
+    * Example\
 = Unordered Lists
 
 - [] Task one
 - [] Task Two
 - [x] Task Three
-- [x] Task Four
+- [x] Task Four\
 = Checkboxes
 
-![alt text](imglink)
+![alt text](imglink)\
 = Inline style img
 
 ![alt text](logo)
-[logo]: imglink
+[logo]: imglink\
 = Reference style img
 
-[Example](link) = Inline style link
+[Example](link) = Inline style link\
 [Example](link "title-example") = Inline style link with title
 
-[Example](example)
-[example]: link
+[Example](example)\
+[example]: link\
 = Reference style link
 
 Number | Name | Letter
 --- | --- | ---
 1 | Name1 | A
 2 | Name2 | B
+
 = Table
 
 `example` = Code like

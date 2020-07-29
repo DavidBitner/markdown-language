@@ -59,8 +59,8 @@ print('Hello World!')
 
 > Example = Quote
 
-- [] Task one
-- [] Task Two
+- [ ] Task one
+- [ ] Task Two
 - [x] Task Three
 - [x] Task Four\
 = Checkboxes
